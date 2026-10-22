@@ -1,0 +1,1 @@
+print(f"{name} | {age} | {city} | {skills_joined}")
